@@ -1,3 +1,4 @@
+//GitHub - @killerbean3 - Counter-Javascript
 class Counter {
   constructor(element, value) {
     this.counter = element;
